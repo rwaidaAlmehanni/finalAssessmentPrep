@@ -87,6 +87,7 @@ var decreaseLevel=function(){
 		}
 		result.push(obj); 	  
 	})
+	this.arrayOfPlayers=result;
 	return result;
 }
 //___________________________________________________
